@@ -1,0 +1,4 @@
+# Ignore PDF outputs
+*.pdf
+# Python cache
+__pycache__/
